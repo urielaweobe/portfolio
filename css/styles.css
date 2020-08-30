@@ -95,6 +95,10 @@ header {
   margin-top: 0;
 }
 
+/* Skills
+--------------------------*/
+
+
 /* Work Experience
 --------------------------*/
 .work-experience {
@@ -165,7 +169,7 @@ footer i {
   .contact-list a {
     padding: 5px;
   }
-  footer {
-    display: block;
+  footer ul li {
+    display: inline-flex;
   }
 }
