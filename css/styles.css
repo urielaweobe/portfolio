@@ -98,7 +98,16 @@ header {
 /* Skills
 --------------------------*/
 .skills {
-  background-color: #333333;
+  /* background-color: #333; */
+  background-image: url('../images/skill.jpg');
+  min-height: 100%;
+
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
 }
 .skills-head {
   color: #fff;
