@@ -102,6 +102,7 @@ header {
   background-image: url('../images/skill.jpg');
   min-height: 100%;
 
+  opacity: .85;
   position: relative;
   background-position: center;
   background-size: cover;
@@ -224,7 +225,16 @@ header {
 /* Contact Info
 --------------------------*/
 footer {
-  background: #343434;
+  background-image: url('../images/contact.jpg');
+  min-height: 100%;
+
+  opacity: .85;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
   color: #f7fff7;
 }
 .contact-list {
