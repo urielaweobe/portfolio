@@ -123,7 +123,6 @@ header {
   grid-gap: 1rem;
   padding: 1rem 40px;
   color: #fff;
-  /* font-size: 1.2rem; */
 }
 
 .skill-box {
@@ -288,6 +287,9 @@ footer i {
   }
   .container {
     grid-template-columns: 1fr !important;
+  }
+  .skills{
+    background: #333333;
   }
 }
 
